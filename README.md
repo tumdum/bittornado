@@ -3,6 +3,11 @@ bittornado
 
 bittornado - fork of cvs version from http://www.bittornado.com with updates for wxPython 2.9
 
+![Main application screen](http://img268.imageshack.us/img268/1729/fr4k.png)
+![Details screen](http://img703.imageshack.us/img703/2657/x5fy.png)
+![Advanced screen](http://img62.imageshack.us/img62/7259/ws3v.png)
+![Preferences screen](http://img405.imageshack.us/img405/8277/fwly.png)
+
 BitTorrent is a tool for distributing files. It's extremely 
 easy to use - downloads are started by clicking on hyperlinks.
 Whenever more than one person is downloading at once 
